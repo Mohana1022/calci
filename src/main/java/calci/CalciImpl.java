@@ -8,20 +8,20 @@ public class CalciImpl implements Calci{
 	}
 
 	@Override
-	public void sub(int a, int b) {
+	public int sub(int a, int b) {
 		// TODO Auto-generated method stub
-		
+		return a-b;
 	}
 
 	@Override
-	public void mul(int a, int b) {
+	public int mul(int a, int b) {
 		// TODO Auto-generated method stub
-		
+		return a*b;
 	}
 
 	@Override
-	public void div(int a, int b) {
-		// TODO Auto-generated method stub
+	public int div(int a, int b) {
+		// TODO Auto-generated method stub		return a/b;
 		
 	}
 

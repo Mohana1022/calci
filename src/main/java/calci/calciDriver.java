@@ -33,6 +33,7 @@ public class calciDriver {
 					
 					case 2:
 					{
+						calculator.sub(a, b);
 						
 					}break;
 					

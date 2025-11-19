@@ -28,7 +28,7 @@ public class calciDriver {
 				{
 					case 1:
 					{
-						
+						calculator.add(a,b);
 					}break;
 					
 					case 2:

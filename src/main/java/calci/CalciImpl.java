@@ -3,9 +3,8 @@ package calci;
 public class CalciImpl implements Calci{
 
 	@Override
-	public void add(int a, int b) {
-		// TODO Auto-generated method stub
-		
+	public int add(int a, int b) {
+		return a+b;
 	}
 
 	@Override
